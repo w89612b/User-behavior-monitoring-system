@@ -1,7 +1,7 @@
 # Website User Behavior Monitoring System
 
 > 网站用户行为监控系统-用户控制端是一个vue.js单页Web应用.Website User Behavior Monitoring System - The user control side is a vue.js one-page web application 
-![image](https://github.com/w89612b/User-behavior-monitoring-system-/blob/master/api.png)
+![image](https://github.com/w89612b/User-behavior-monitoring-system/blob/master/api.png)
 
 ## Build Setup
 
